@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "Dr8sRf4MctYkm+its8PMJZ7FcGmrP7r0pKlqdShQ92s=",
+  "Source": "UserWebAPI.Tests",
+  "BasePath": "_content/UserWebAPI.Tests",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Asus\\Documents\\IMPORTANT\\NUS-ISS\\CPAS-BE\\UserWebAPI\\UserWebAPI.csproj",
+      "Version": 2,
+      "Source": "UserWebAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
