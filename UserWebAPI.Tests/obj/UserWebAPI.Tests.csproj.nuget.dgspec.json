@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Documents\\IMPORTANT\\NUS-ISS\\CPAS-BE\\UserWebAPI.Tests\\UserWebAPI.Tests.csproj": {}
+    "D:\\Projects\\Practice Module\\CPAS-BE\\UserWebAPI.Tests\\UserWebAPI.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Documents\\IMPORTANT\\NUS-ISS\\CPAS-BE\\UserWebAPI.Tests\\UserWebAPI.Tests.csproj": {
+    "D:\\Projects\\Practice Module\\CPAS-BE\\UserWebAPI.Tests\\UserWebAPI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Documents\\IMPORTANT\\NUS-ISS\\CPAS-BE\\UserWebAPI.Tests\\UserWebAPI.Tests.csproj",
+        "projectUniqueName": "D:\\Projects\\Practice Module\\CPAS-BE\\UserWebAPI.Tests\\UserWebAPI.Tests.csproj",
         "projectName": "UserWebAPI.Tests",
-        "projectPath": "C:\\Users\\Asus\\Documents\\IMPORTANT\\NUS-ISS\\CPAS-BE\\UserWebAPI.Tests\\UserWebAPI.Tests.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Documents\\IMPORTANT\\NUS-ISS\\CPAS-BE\\UserWebAPI.Tests\\obj\\",
+        "projectPath": "D:\\Projects\\Practice Module\\CPAS-BE\\UserWebAPI.Tests\\UserWebAPI.Tests.csproj",
+        "packagesPath": "C:\\Users\\qamar\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Practice Module\\CPAS-BE\\UserWebAPI.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\qamar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Asus\\Documents\\IMPORTANT\\NUS-ISS\\CPAS-BE\\UserWebAPI\\UserWebAPI.csproj": {
-                "projectPath": "C:\\Users\\Asus\\Documents\\IMPORTANT\\NUS-ISS\\CPAS-BE\\UserWebAPI\\UserWebAPI.csproj"
+              "D:\\Projects\\Practice Module\\CPAS-BE\\UserWebAPI\\UserWebAPI.csproj": {
+                "projectPath": "D:\\Projects\\Practice Module\\CPAS-BE\\UserWebAPI\\UserWebAPI.csproj"
               }
             }
           }
@@ -93,21 +92,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Asus\\Documents\\IMPORTANT\\NUS-ISS\\CPAS-BE\\UserWebAPI\\UserWebAPI.csproj": {
+    "D:\\Projects\\Practice Module\\CPAS-BE\\UserWebAPI\\UserWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Documents\\IMPORTANT\\NUS-ISS\\CPAS-BE\\UserWebAPI\\UserWebAPI.csproj",
+        "projectUniqueName": "D:\\Projects\\Practice Module\\CPAS-BE\\UserWebAPI\\UserWebAPI.csproj",
         "projectName": "UserWebAPI",
-        "projectPath": "C:\\Users\\Asus\\Documents\\IMPORTANT\\NUS-ISS\\CPAS-BE\\UserWebAPI\\UserWebAPI.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Documents\\IMPORTANT\\NUS-ISS\\CPAS-BE\\UserWebAPI\\obj\\",
+        "projectPath": "D:\\Projects\\Practice Module\\CPAS-BE\\UserWebAPI\\UserWebAPI.csproj",
+        "packagesPath": "C:\\Users\\qamar\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Practice Module\\CPAS-BE\\UserWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\qamar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -115,7 +114,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -153,7 +151,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
-              "version": "[6.0.20, 6.0.20]"
+              "version": "[6.0.22, 6.0.22]"
             }
           ],
           "frameworkReferences": {
@@ -164,7 +162,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

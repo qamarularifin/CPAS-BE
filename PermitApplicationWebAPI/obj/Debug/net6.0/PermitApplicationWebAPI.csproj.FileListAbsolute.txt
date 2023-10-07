@@ -32,37 +32,3 @@ D:\Projects\Practice Module\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\ref
 D:\Projects\Practice Module\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\PermitApplicationWebAPI.pdb
 D:\Projects\Practice Module\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\PermitApplicationWebAPI.genruntimeconfig.cache
 D:\Projects\Practice Module\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\ref\PermitApplicationWebAPI.dll
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\bin\Debug\net6.0\appsettings.json
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\bin\Debug\net6.0\aws-lambda-tools-defaults.json
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\bin\Debug\net6.0\PermitApplicationWebAPI.exe
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\bin\Debug\net6.0\PermitApplicationWebAPI.deps.json
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\bin\Debug\net6.0\PermitApplicationWebAPI.runtimeconfig.json
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\bin\Debug\net6.0\PermitApplicationWebAPI.dll
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\bin\Debug\net6.0\PermitApplicationWebAPI.pdb
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\bin\Debug\net6.0\Amazon.Lambda.APIGatewayEvents.dll
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\bin\Debug\net6.0\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\bin\Debug\net6.0\Amazon.Lambda.AspNetCoreServer.dll
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\bin\Debug\net6.0\Amazon.Lambda.Core.dll
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\bin\Debug\net6.0\Amazon.Lambda.Logging.AspNetCore.dll
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\PermitApplicationWebAPI.csproj.AssemblyReference.cache
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\PermitApplicationWebAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\PermitApplicationWebAPI.AssemblyInfoInputs.cache
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\PermitApplicationWebAPI.AssemblyInfo.cs
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\PermitApplicationWebAPI.csproj.CoreCompileInputs.cache
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\PermitApplicationWebAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.PermitApplicationWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.PermitApplicationWebAPI.props
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PermitApplicationWebAPI.props
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PermitApplicationWebAPI.props
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\scopedcss\bundle\PermitApplicationWebAPI.styles.css
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\PermitApplicationWebAPI.csproj.CopyComplete
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\PermitApplicationWebAPI.dll
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\refint\PermitApplicationWebAPI.dll
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\PermitApplicationWebAPI.pdb
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\PermitApplicationWebAPI.genruntimeconfig.cache
-C:\Users\Asus\Documents\IMPORTANT\NUS-ISS\CPAS-BE\PermitApplicationWebAPI\obj\Debug\net6.0\ref\PermitApplicationWebAPI.dll
