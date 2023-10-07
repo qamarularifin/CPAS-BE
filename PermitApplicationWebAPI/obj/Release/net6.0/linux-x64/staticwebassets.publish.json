@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "olXNHmx8ugqDCt7toWbor5gCs8Dm5iaYhaLQUs/1IOI=",
+  "Source": "PermitApplicationWebAPI",
+  "BasePath": "_content/PermitApplicationWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

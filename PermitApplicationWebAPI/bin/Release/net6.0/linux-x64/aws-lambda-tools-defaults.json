@@ -13,5 +13,5 @@
     "template"      : "serverless.template",
     "template-parameters" : "",
     "s3-bucket"           : "cpas-be-bucket",
-    "stack-name"          : "PermitApplicationWebAPI"
+    "stack-name"          : "cpas-microservices"
 }
